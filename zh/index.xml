@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhs on 黑客茶舖</title>
+    <link>https://hacha.tw/zh/</link>
+    <description>Recent content in Zhs on 黑客茶舖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於</title>
+      <link>https://hacha.tw/zh/%E9%97%9C%E6%96%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hacha.tw/zh/%E9%97%9C%E6%96%BC/</guid>
+      <description>You might be an artist who would like to introduce</description>
+    </item>
+    
+  </channel>
+</rss>
