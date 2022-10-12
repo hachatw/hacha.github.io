@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qrcode on 黑客茶舖</title>
+    <link>https://hacha.tw/qrcode/</link>
+    <description>Recent content in Qrcode on 黑客茶舖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Oct 2022 04:03:28 +0800</lastBuildDate><atom:link href="https://hacha.tw/qrcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qrcode Menu</title>
+      <link>https://hacha.tw/qrcode/menu/</link>
+      <pubDate>Thu, 13 Oct 2022 03:17:57 +0800</pubDate>
+      
+      <guid>https://hacha.tw/qrcode/menu/</guid>
+      <description>qrcode redirecting you to menu page</description>
+    </item>
+    
+  </channel>
+</rss>
