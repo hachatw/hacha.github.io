@@ -2,9 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search on 黑客茶舖</title>
-    <link>https://hacha.tw/zh/search/</link>
+    <link>https://hacha.tw/search/</link>
     <description>Recent content in Search on 黑客茶舖</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hacha.tw/zh/search/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hacha.tw/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
