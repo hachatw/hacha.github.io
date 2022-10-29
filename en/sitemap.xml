@@ -93,8 +93,73 @@
                 href="https://hacha.tw/en/menus/tea/tea/"
                 />
   </url><url>
+    <loc>https://hacha.tw/en/blog/post-4/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/blog/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/blog/post-4/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/author/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/author/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/blog/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/blog/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/categories/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/categories/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/categories/event/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/categories/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/categories/event/"
+                />
+  </url><url>
     <loc>https://hacha.tw/en/</loc>
-    <lastmod>2022-10-28T03:17:57+08:00</lastmod>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -104,6 +169,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hacha.tw/en/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/open-source/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/open-source/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/open-source/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/wiki/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/wiki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/wiki/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/wikidata/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/wikidata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/wikidata/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/author/wikidata/</loc>
+    <lastmod>2022-10-28T14:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/author/wikidata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/author/wikidata/"
                 />
   </url><url>
     <loc>https://hacha.tw/en/qrcode/card/</loc>
@@ -143,6 +273,110 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hacha.tw/en/qrcode/menu/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/ga/</loc>
+    <lastmod>2022-10-01T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/ga/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/ga/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/blog/post-2/</loc>
+    <lastmod>2022-10-01T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/blog/post-2/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/ga4/</loc>
+    <lastmod>2022-10-01T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/ga4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/ga4/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/author/google/</loc>
+    <lastmod>2022-10-01T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/author/google/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/author/google/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/growonairtw/</loc>
+    <lastmod>2022-10-01T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/growonairtw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/growonairtw/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/sell/</loc>
+    <lastmod>2022-10-01T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/sell/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/sell/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/tags/tech/</loc>
+    <lastmod>2022-10-01T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/tags/tech/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/blog/post-3/</loc>
+    <lastmod>2022-03-14T15:40:24+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/blog/post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/blog/post-3/"
                 />
   </url><url>
     <loc>https://hacha.tw/en/menus/blended/blended/</loc>
@@ -195,32 +429,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hacha.tw/en/author/andy/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/author/</loc>
-    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/author/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/categories/</loc>
-    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/categories/"
                 />
   </url><url>
     <loc>https://hacha.tw/en/tags/dessert/</loc>
@@ -288,19 +496,6 @@
                 href="https://hacha.tw/en/tags/refreshment/"
                 />
   </url><url>
-    <loc>https://hacha.tw/en/tags/</loc>
-    <lastmod>2022-02-12T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/tags/"
-                />
-  </url><url>
     <loc>https://hacha.tw/en/categories/%E5%92%96%E5%95%A1/</loc>
     <lastmod>2022-02-12T15:40:24+06:00</lastmod>
     <xhtml:link
@@ -333,162 +528,6 @@
     <loc>https://hacha.tw/en/categories/cuisine/</loc>
     <lastmod>2022-02-10T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://hacha.tw/en/author/admin/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/author/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/author/admin/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/blog/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/blog/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/tags/day/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/tags/day/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/tags/day/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/tags/fashion/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/tags/fashion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/tags/fashion/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/blog/post-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/blog/post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/blog/post-4/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/tags/lifestyle/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/tags/lifestyle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/tags/lifestyle/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/categories/lifestyle/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/categories/lifestyle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/categories/lifestyle/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/categories/operations/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/categories/operations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/categories/operations/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/blog/post-3/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/blog/post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/blog/post-3/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/blog/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/blog/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/blog/post-2/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/tags/tour/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/tags/tour/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/tags/tour/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/categories/tour/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/categories/tour/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/categories/tour/"
-                />
-  </url><url>
     <loc>https://hacha.tw/en/tags/visit/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
@@ -500,32 +539,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hacha.tw/en/tags/visit/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/tags/work/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/tags/work/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/tags/work/"
-                />
-  </url><url>
-    <loc>https://hacha.tw/en/categories/working-days/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hacha.tw/categories/working-days/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hacha.tw/en/categories/working-days/"
                 />
   </url><url>
     <loc>https://hacha.tw/en/blog/post-1/</loc>

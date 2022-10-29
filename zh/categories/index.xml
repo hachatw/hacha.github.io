@@ -5,7 +5,16 @@
     <link>https://hacha.tw/categories/</link>
     <description>Recent content in Categories on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 Oct 2022 11:46:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 14:40:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>event</title>
+      <link>https://hacha.tw/categories/event/</link>
+      <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/categories/event/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>台灣菜</title>
       <link>https://hacha.tw/categories/%E5%8F%B0%E7%81%A3%E8%8F%9C/</link>
@@ -39,42 +48,6 @@
       <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
       
       <guid>https://hacha.tw/categories/%E5%92%96%E5%95%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lifestyle</title>
-      <link>https://hacha.tw/categories/lifestyle/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/categories/lifestyle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>operations</title>
-      <link>https://hacha.tw/categories/operations/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/categories/operations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tour</title>
-      <link>https://hacha.tw/categories/tour/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/categories/tour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working days</title>
-      <link>https://hacha.tw/categories/working-days/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/categories/working-days/</guid>
       <description></description>
     </item>
     

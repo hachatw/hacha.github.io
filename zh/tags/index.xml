@@ -5,7 +5,34 @@
     <link>https://hacha.tw/tags/</link>
     <description>Recent content in Tags on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 Oct 2022 11:46:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 14:40:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open source</title>
+      <link>https://hacha.tw/tags/open-source/</link>
+      <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wiki</title>
+      <link>https://hacha.tw/tags/wiki/</link>
+      <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wikidata</title>
+      <link>https://hacha.tw/tags/wikidata/</link>
+      <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/wikidata/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>餐點</title>
       <link>https://hacha.tw/tags/%E9%A4%90%E9%BB%9E/</link>
@@ -21,6 +48,51 @@
       <pubDate>Thu, 20 Oct 2022 11:46:24 +0600</pubDate>
       
       <guid>https://hacha.tw/tags/%E5%8F%B0%E7%81%A3%E8%8F%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GA</title>
+      <link>https://hacha.tw/tags/ga/</link>
+      <pubDate>Sat, 01 Oct 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/ga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GA4</title>
+      <link>https://hacha.tw/tags/ga4/</link>
+      <pubDate>Sat, 01 Oct 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/ga4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>growonairtw</title>
+      <link>https://hacha.tw/tags/growonairtw/</link>
+      <pubDate>Sat, 01 Oct 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/growonairtw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sell</title>
+      <link>https://hacha.tw/tags/sell/</link>
+      <pubDate>Sat, 01 Oct 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/sell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://hacha.tw/tags/tech/</link>
+      <pubDate>Sat, 01 Oct 2022 15:40:24 +0600</pubDate>
+      
+      <guid>https://hacha.tw/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -52,56 +124,11 @@
     </item>
     
     <item>
-      <title>day</title>
-      <link>https://hacha.tw/tags/day/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/tags/day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fashion</title>
-      <link>https://hacha.tw/tags/fashion/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/tags/fashion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lifestyle</title>
-      <link>https://hacha.tw/tags/lifestyle/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/tags/lifestyle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tour</title>
-      <link>https://hacha.tw/tags/tour/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/tags/tour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>visit</title>
       <link>https://hacha.tw/tags/visit/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://hacha.tw/tags/visit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://hacha.tw/tags/work/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/tags/work/</guid>
       <description></description>
     </item>
     
