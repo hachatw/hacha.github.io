@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>https://hacha.tw/en/</loc>
-    <lastmod>2022-10-13T04:03:28+08:00</lastmod>
+    <lastmod>2022-10-28T03:17:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -104,6 +104,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hacha.tw/en/"
+                />
+  </url><url>
+    <loc>https://hacha.tw/en/qrcode/card/</loc>
+    <lastmod>2022-10-28T03:17:57+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hacha.tw/qrcode/card/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacha.tw/en/qrcode/card/"
                 />
   </url><url>
     <loc>https://hacha.tw/en/qrcode/</loc>
