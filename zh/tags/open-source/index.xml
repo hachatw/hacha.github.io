@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open source on 黑客茶舖</title>
-    <link>https://hacha.tw/tags/open-source/</link>
+    <link>https://hacha.tw/zh/tags/open-source/</link>
     <description>Recent content in open source on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Oct 2022 14:40:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 14:40:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/zh/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022 維基數據跨領域論壇</title>
-      <link>https://hacha.tw/blog/post-4/</link>
+      <link>https://hacha.tw/zh/blog/post-4/</link>
       <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/blog/post-4/</guid>
+      <guid>https://hacha.tw/zh/blog/post-4/</guid>
       <description>2022 維基數據跨領域論壇 Wikidata Cross-Domain Forum 2022
 在 2022 年 Wikidata 迎來了第一個十周年！</description>
     </item>

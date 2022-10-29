@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>visit on 黑客茶舖</title>
-    <link>https://hacha.tw/tags/visit/</link>
+    <link>https://hacha.tw/zh/tags/visit/</link>
     <description>Recent content in visit on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/tags/visit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://hacha.tw/zh/tags/visit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>義大利麵</title>
-      <link>https://hacha.tw/menus/pasta/pasta/</link>
+      <link>https://hacha.tw/zh/menus/pasta/pasta/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/menus/pasta/pasta/</guid>
+      <guid>https://hacha.tw/zh/menus/pasta/pasta/</guid>
       <description>圓直面/ 寬麵/ 筆管麵 白酒蛤蜊義大利麵 NT230
 白酒海鮮義大利麵 NT290
 奶油培根義大利麵 NT230
@@ -20,10 +20,10 @@
     
     <item>
       <title>燉飯</title>
-      <link>https://hacha.tw/menus/risotto/risotto/</link>
+      <link>https://hacha.tw/zh/menus/risotto/risotto/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/menus/risotto/risotto/</guid>
+      <guid>https://hacha.tw/zh/menus/risotto/risotto/</guid>
       <description>燉飯 焗烤奶汁牛肉菘菇燉飯 NT320
 焗烤奶汁豬肉菘菇燉飯 NT320
 焗烤奶汁田園（蛋奶素）菘菇燉飯 NT320
