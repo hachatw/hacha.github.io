@@ -5,7 +5,7 @@
     <link>https://hacha.tw/</link>
     <description>Recent content on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 18:41:34 +0800</lastBuildDate><atom:link href="https://hacha.tw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 20:03:59 +0800</lastBuildDate><atom:link href="https://hacha.tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> 主廚私房菜 </title>
       <link>https://hacha.tw/menus/food-menu/cuisine/</link>
@@ -77,11 +77,42 @@
     </item>
     
     <item>
+      <title>2023 黑客微醺品酒會</title>
+      <link>https://hacha.tw/event/2023-wine-party/</link>
+      <pubDate>Mon, 30 Jan 2023 20:03:59 +0800</pubDate>
+      
+      <guid>https://hacha.tw/event/2023-wine-party/</guid>
+      <description>主題: 葡萄酒品酒會
+日期: 還未決定的某個週末的晚上
+地點: 黑客茶舖
+嘉賓: 最多30位酒迷或喜好各式酒類的客人
+酒品: 選擇5-6種不同的酒，包括紅酒和白酒等，並配有專業的酒評家進行解說。</description>
+    </item>
+    
+    <item>
+      <title>台灣春茶茶會 2023 </title>
+      <link>https://hacha.tw/event/2023-afternoon-tea-party/</link>
+      <pubDate>Mon, 30 Jan 2023 20:03:49 +0800</pubDate>
+      
+      <guid>https://hacha.tw/event/2023-afternoon-tea-party/</guid>
+      <description>為了慶祝春天的到來，我們歡迎您參加我們的台灣春主題交流茶會！這是一個結交新朋友，交流文化和藝術的絕佳機會。我們將提供美味的茶點，並通過與他人的交流，一起度過美好的春天！</description>
+    </item>
+    
+    <item>
+      <title>黑客 228 假日桌遊團</title>
+      <link>https://hacha.tw/event/2023-02-28-boardgame/</link>
+      <pubDate>Mon, 30 Jan 2023 20:03:14 +0800</pubDate>
+      
+      <guid>https://hacha.tw/event/2023-02-28-boardgame/</guid>
+      <description>風聲 逆統戰</description>
+    </item>
+    
+    <item>
       <title>2022 維基數據跨領域論壇</title>
-      <link>https://hacha.tw/blog/post-4/</link>
+      <link>https://hacha.tw/event/post-4/</link>
       <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/blog/post-4/</guid>
+      <guid>https://hacha.tw/event/post-4/</guid>
       <description>2022 維基數據跨領域論壇 Wikidata Cross-Domain Forum 2022
 在 2022 年 Wikidata 迎來了第一個十周年！</description>
     </item>
@@ -105,26 +136,6 @@
     </item>
     
     <item>
-      <title>GA 即戰力 報表入門-善用 Google Analytics 4 快速洞悉顧客數位旅程</title>
-      <link>https://hacha.tw/blog/post-2/</link>
-      <pubDate>Sat, 01 Oct 2022 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/blog/post-2/</guid>
-      <description>https://growonairtw.withgoogle.com/events/googleanalytics_17
-手把手教您使用新版 GA 4 的報表操作，讓您迅速洞悉行銷活動帶來的顧客在網站與 App 的數位旅程。 課程內容： • Google Analytics 簡介 • GA 4 報表介紹 • 維度與指標簡介 • 自訂探索功能介紹</description>
-    </item>
-    
-    <item>
-      <title>Grow with Google 出口實戰課 - 企業必備跨境觀點</title>
-      <link>https://hacha.tw/blog/post-3/</link>
-      <pubDate>Mon, 14 Mar 2022 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/blog/post-3/</guid>
-      <description>報名連結: https://growonairtw.withgoogle.com/events/digitalmarketing_3
-數位行銷力 出口實戰課 - 企業必備跨境觀點 ★欲報名本課程之學員，請先完整參與數位行銷應用的任一講師的兩門課程，包括「以 Google 商家檔案有效提升顧客互動」與「以 Google 搜尋掌握行銷關鍵時刻」。</description>
-    </item>
-    
-    <item>
       <title>特調飲料</title>
       <link>https://hacha.tw/menus/blended/blended/</link>
       <pubDate>Sat, 12 Feb 2022 18:46:00 +0800</pubDate>
@@ -140,17 +151,6 @@
       
       <guid>https://hacha.tw/menus/alcohol/alcohol/</guid>
       <description>啤酒 台灣 金牌啤酒 600ml 5% NT120 墨西哥 可樂娜 330ml 4.6% NT120 荷蘭 海尼根 330ml 5% NT120 法國 可倫堡1664白啤酒 330 ml 5% NT160 比利時 豪格登 白啤酒 330ml 4.</description>
-    </item>
-    
-    <item>
-      <title>數位行銷力 以 Google 搜尋掌握行銷關鍵時刻</title>
-      <link>https://hacha.tw/blog/post-1/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://hacha.tw/blog/post-1/</guid>
-      <description>https://growonairtw.withgoogle.com/events/googlesearch_11
-科技日新月異，帶來個人生活與市場環境的巨大變化，使用者搜尋的方式也早已不同以往，在課程中重新認識不同的搜尋模式，妥善運用並藉此優化您的廣告製作與投放績效。
-※完整參與本課程並填寫課後回饋問卷的學員，Grow with Google 將頒發該課程完課證明。</description>
     </item>
     
     <item>
