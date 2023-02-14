@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>活動頁面 Event on 黑客茶舖</title>
-    <link>https://hacha.tw/event/</link>
+    <link>https://hacha.tw/zh/event/</link>
     <description>Recent content in 活動頁面 Event on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Jan 2023 20:03:59 +0800</lastBuildDate><atom:link href="https://hacha.tw/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 20:03:59 +0800</lastBuildDate><atom:link href="https://hacha.tw/zh/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 黑客微醺品酒會</title>
-      <link>https://hacha.tw/event/2023-wine-party/</link>
+      <link>https://hacha.tw/zh/event/2023-wine-party/</link>
       <pubDate>Mon, 30 Jan 2023 20:03:59 +0800</pubDate>
       
-      <guid>https://hacha.tw/event/2023-wine-party/</guid>
+      <guid>https://hacha.tw/zh/event/2023-wine-party/</guid>
       <description>主題: 葡萄酒品酒會
 日期: 還未決定的某個週末的晚上
 地點: 黑客茶舖
@@ -21,28 +21,28 @@
     
     <item>
       <title>台灣春茶茶會 2023 </title>
-      <link>https://hacha.tw/event/2023-afternoon-tea-party/</link>
+      <link>https://hacha.tw/zh/event/2023-afternoon-tea-party/</link>
       <pubDate>Mon, 30 Jan 2023 20:03:49 +0800</pubDate>
       
-      <guid>https://hacha.tw/event/2023-afternoon-tea-party/</guid>
+      <guid>https://hacha.tw/zh/event/2023-afternoon-tea-party/</guid>
       <description>為了慶祝春天的到來，我們歡迎您參加我們的台灣春主題交流茶會！這是一個結交新朋友，交流文化和藝術的絕佳機會。我們將提供美味的茶點，並通過與他人的交流，一起度過美好的春天！</description>
     </item>
     
     <item>
       <title>黑客 228 假日桌遊團</title>
-      <link>https://hacha.tw/event/2023-02-28-boardgame/</link>
+      <link>https://hacha.tw/zh/event/2023-02-28-boardgame/</link>
       <pubDate>Mon, 30 Jan 2023 20:03:14 +0800</pubDate>
       
-      <guid>https://hacha.tw/event/2023-02-28-boardgame/</guid>
+      <guid>https://hacha.tw/zh/event/2023-02-28-boardgame/</guid>
       <description>風聲 逆統戰</description>
     </item>
     
     <item>
       <title>2022 維基數據跨領域論壇</title>
-      <link>https://hacha.tw/event/post-4/</link>
+      <link>https://hacha.tw/zh/event/post-4/</link>
       <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/event/post-4/</guid>
+      <guid>https://hacha.tw/zh/event/post-4/</guid>
       <description>2022 維基數據跨領域論壇 Wikidata Cross-Domain Forum 2022
 在 2022 年 Wikidata 迎來了第一個十周年！</description>
     </item>

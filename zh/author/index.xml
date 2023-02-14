@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on 黑客茶舖</title>
-    <link>https://hacha.tw/author/</link>
+    <link>https://hacha.tw/zh/author/</link>
     <description>Recent content in Author on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Jan 2023 20:03:59 +0800</lastBuildDate><atom:link href="https://hacha.tw/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 20:03:59 +0800</lastBuildDate><atom:link href="https://hacha.tw/zh/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>黑客茶舖</title>
-      <link>https://hacha.tw/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/</link>
+      <link>https://hacha.tw/zh/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/</link>
       <pubDate>Mon, 30 Jan 2023 20:03:59 +0800</pubDate>
       
-      <guid>https://hacha.tw/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/</guid>
+      <guid>https://hacha.tw/zh/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wikidata</title>
-      <link>https://hacha.tw/author/wikidata/</link>
+      <link>https://hacha.tw/zh/author/wikidata/</link>
       <pubDate>Fri, 28 Oct 2022 14:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/author/wikidata/</guid>
+      <guid>https://hacha.tw/zh/author/wikidata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andy</title>
-      <link>https://hacha.tw/author/andy/</link>
+      <link>https://hacha.tw/zh/author/andy/</link>
       <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/author/andy/</guid>
+      <guid>https://hacha.tw/zh/author/andy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ellen</title>
-      <link>https://hacha.tw/author/ellen/</link>
+      <link>https://hacha.tw/zh/author/ellen/</link>
       <pubDate>Sat, 12 Feb 2022 15:40:24 +0600</pubDate>
       
-      <guid>https://hacha.tw/author/ellen/</guid>
+      <guid>https://hacha.tw/zh/author/ellen/</guid>
       <description></description>
     </item>
     

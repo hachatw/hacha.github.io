@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>黑客茶舖</title>
-    <link>https://hacha.tw/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/</link>
+    <link>https://hacha.tw/zh/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/</link>
     <description>Recent content on 黑客茶舖</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Jan 2023 20:03:59 +0800</lastBuildDate><atom:link href="https://hacha.tw/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 20:03:59 +0800</lastBuildDate><atom:link href="https://hacha.tw/zh/author/%E9%BB%91%E5%AE%A2%E8%8C%B6%E8%88%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 黑客微醺品酒會</title>
-      <link>https://hacha.tw/event/2023-wine-party/</link>
+      <link>https://hacha.tw/zh/event/2023-wine-party/</link>
       <pubDate>Mon, 30 Jan 2023 20:03:59 +0800</pubDate>
       
-      <guid>https://hacha.tw/event/2023-wine-party/</guid>
+      <guid>https://hacha.tw/zh/event/2023-wine-party/</guid>
       <description>主題: 葡萄酒品酒會
 日期: 還未決定的某個週末的晚上
 地點: 黑客茶舖
@@ -21,19 +21,19 @@
     
     <item>
       <title>台灣春茶茶會 2023 </title>
-      <link>https://hacha.tw/event/2023-afternoon-tea-party/</link>
+      <link>https://hacha.tw/zh/event/2023-afternoon-tea-party/</link>
       <pubDate>Mon, 30 Jan 2023 20:03:49 +0800</pubDate>
       
-      <guid>https://hacha.tw/event/2023-afternoon-tea-party/</guid>
+      <guid>https://hacha.tw/zh/event/2023-afternoon-tea-party/</guid>
       <description>為了慶祝春天的到來，我們歡迎您參加我們的台灣春主題交流茶會！這是一個結交新朋友，交流文化和藝術的絕佳機會。我們將提供美味的茶點，並通過與他人的交流，一起度過美好的春天！</description>
     </item>
     
     <item>
       <title>黑客 228 假日桌遊團</title>
-      <link>https://hacha.tw/event/2023-02-28-boardgame/</link>
+      <link>https://hacha.tw/zh/event/2023-02-28-boardgame/</link>
       <pubDate>Mon, 30 Jan 2023 20:03:14 +0800</pubDate>
       
-      <guid>https://hacha.tw/event/2023-02-28-boardgame/</guid>
+      <guid>https://hacha.tw/zh/event/2023-02-28-boardgame/</guid>
       <description>風聲 逆統戰</description>
     </item>
     
